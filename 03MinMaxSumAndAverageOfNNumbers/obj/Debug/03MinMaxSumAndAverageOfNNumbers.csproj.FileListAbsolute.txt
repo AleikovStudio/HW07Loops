@@ -1,0 +1,1 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW7Loops\03MinMaxSumAndAverageOfNNumbers\bin\Debug\03MinMaxSumAndAverageOfNNumbers.exe.config
