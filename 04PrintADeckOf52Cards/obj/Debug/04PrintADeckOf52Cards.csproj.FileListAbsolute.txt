@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\HW7Loops\04PrintADeckOf52Cards\bin\Debug\04PrintADeckOf52Cards.exe.config
+E:\VISUAL-STUDIO\HW7Loops\04PrintADeckOf52Cards\bin\Debug\04PrintADeckOf52Cards.exe
+E:\VISUAL-STUDIO\HW7Loops\04PrintADeckOf52Cards\bin\Debug\04PrintADeckOf52Cards.pdb
+E:\VISUAL-STUDIO\HW7Loops\04PrintADeckOf52Cards\obj\Debug\04PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\HW7Loops\04PrintADeckOf52Cards\obj\Debug\04PrintADeckOf52Cards.exe
+E:\VISUAL-STUDIO\HW7Loops\04PrintADeckOf52Cards\obj\Debug\04PrintADeckOf52Cards.pdb
